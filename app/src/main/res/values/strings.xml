@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppWater</string>
+    <string name="volumeWater">Объем выпитой воды</string>
+    <string name="unit">мл</string>
+    <string name="volume">Введите объем</string>
+    <string name="notCorrect">Введенное значение не корректно, повторите ввод</string>
+    <string name="drunk">Количество выпитой воды не записано, вычитать не из чего</string>
+</resources>
